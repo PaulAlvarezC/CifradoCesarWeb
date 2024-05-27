@@ -22,3 +22,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+.DS_Store
+build/classes/.DS_Store
+build/classes/com/.DS_Store
+build/classes/com/cifradocesar/.DS_Store
+src/.DS_Store
+src/com/.DS_Store
+src/com/cifradocesar/.DS_Store
+WebContent/.DS_Store
+WebContent/WEB-INF/.DS_Store
