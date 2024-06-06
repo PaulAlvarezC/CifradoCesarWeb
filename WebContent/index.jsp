@@ -33,7 +33,7 @@
 					<div class="mb-3">
 						<label for="textOrigin" class="form-label">Ingrese el texto
 							que desea analizar</label>
-						<textarea class="form-control" name="textOrigin" id="textOrigin" rows="10" required requir></textarea>
+						<textarea class="form-control" name="textOrigin" id="textOrigin" rows="10" required></textarea>
 					</div>
 				</div>
 				<div class="col-sm-4">
